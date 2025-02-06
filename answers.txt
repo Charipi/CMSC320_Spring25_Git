@@ -5,3 +5,7 @@ Answer: Git provides a system to organize and track changes across multiple feat
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to finance, where one could predict the future values of various assets.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging adds a new commit to merge together both branches. Rebasing moves all the branch commits after the original branch commits to create a linear history.
